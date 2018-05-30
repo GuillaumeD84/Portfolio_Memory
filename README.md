@@ -1,4 +1,6 @@
 # Portfolio - Memory
+[> Page détaillé de l'exercice sur mon site <](neo-explorer.com/portfolio/memory "Page de l'exercice sur mon site")
+
 Reproduction du jeu du Memory de Ravensburger en JavaScript et à l'aide des librairies jQuery et jQueryUI.
 
 ## Principe
